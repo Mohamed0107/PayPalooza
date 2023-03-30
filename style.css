@@ -1,0 +1,30 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    background: rgb(10, 56, 105); font-family: calibri; padding-right: 10px;padding-left: 15px;
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+    font-size: 100pxv  ; font-weight: 600; color: white;
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: white; font-size: 30px; font-weight: bold; margin-right: 20px;
+}
+button{
+    background-color: black; margin-left: 25px; border-radius: 25px; padding: 20px; width: 120px;
+}
+button a{
+    color: white;  font-size: 20px;
+}
+
+.main-body{
+    width: 70%;
+    padding: 1rem;
+  }
+ 
